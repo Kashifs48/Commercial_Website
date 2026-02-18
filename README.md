@@ -51,9 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-````  
-html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -297,7 +295,7 @@ footer {
     }
 } 
 
-````
+```
 ## OUTPUT
 ![alt text](<../Screenshot 2026-02-16 162349.png>)
 ![alt text](<../Screenshot 2026-02-16 162402.png>)
