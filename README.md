@@ -299,7 +299,7 @@ footer {
 
 ````
 ## OUTPUT
- ![alt text](<../Screenshot 2026-02-16 162349.png>)
+![alt text](<../Screenshot 2026-02-16 162349.png>)
 ![alt text](<../Screenshot 2026-02-16 162402.png>)
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
